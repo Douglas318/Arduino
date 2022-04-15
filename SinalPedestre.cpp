@@ -1,3 +1,5 @@
+//Sinal de pedestres
+
 #define VERDE 9
 
 #define VERMELHO 10

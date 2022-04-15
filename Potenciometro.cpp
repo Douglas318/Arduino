@@ -1,5 +1,6 @@
 //Circuito para diminuir e aumentar o brilho do LED utilizando potenciômetro
 
+
 #define LED 3
 
 #define POT A0
